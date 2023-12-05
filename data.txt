@@ -1,0 +1,4 @@
+alifa,1122,Perempuan,Baleendah
+gumi,143,Laki-Laki,Bandung
+wina,123,Perempuan,Bandung
+wini,789,Perempuan,Ciwidey
